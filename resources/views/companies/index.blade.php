@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="panel panel-primary">
+<div class="panel panel-primary col-lg-6 col-md-6">
   <div class="panel-heading">Panel heading without title</div>
   <div class="panel-body">
     <ul class="list-group">
